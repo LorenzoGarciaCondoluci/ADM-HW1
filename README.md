@@ -1,6 +1,6 @@
 # ADM-HW1
 
-###**scripts.ipynb** is a Jupyter notebook that contains the codes used to solve Hackerrank's exercises.
+###**scripts.ipynb** is a Jupyter notebook that contains the codes used to solve Hackerrank's exercises.\
 ###**stamps/** is a folder where there are two PDFs files. These files contain the screenshots of all the exercises i managed to solve and also the attempts.
 
 ###**Remark**: I managed to solve every assigned challenge but in some cases i had to look at the 'Discussions'.
